@@ -7,8 +7,6 @@ public static void main(String arg[])
 Scanner input=new Scanner(System.in);
 int NoOfMov=8;
 
-
-
 for(int i=1;i<=NoOfMov;i++)
 {
 	System.out.println("movie Number");
